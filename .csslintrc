@@ -8,7 +8,6 @@
 	"duplicate-background-images": false,
 	"duplicate-properties": false,
 	"empty-rules": false,
-	"errors": false,
 	"fallback-colors": false,
 	"floats": false,
 	"font-faces": false,
