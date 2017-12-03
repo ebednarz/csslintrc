@@ -15,6 +15,7 @@
 	"font-sizes": false,
 	"gradients": false,
 	"ids": false,
+	"import-ie-limit": false,
 	"import": false,
 	"import-ie-limit": false,
 	"important": false,
